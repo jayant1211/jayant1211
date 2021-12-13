@@ -14,7 +14,7 @@
 
 - 💬 Talks **Image Processing, Computer Vision, Machine Learning and Somtetimes Android**
 
-- 📫 Reach me @ **jayant.meshram18@vit.edu**
+- 📫 Reach me:  **jayant.meshram18@vit.edu**
 
 - ⚡ Fun fact **Cows moo with regional accents.**
 <h3 align="left">Languages & Tools I use:</h3>
