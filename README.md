@@ -12,7 +12,7 @@
 
 - 🌱 Currently learning **GANs, Web & Android**
 
-- 💬 Talks **Image Processing, Computer Vision, Machine Learning and Somtetimes Android**
+- 💬 Talks **Image Processing, Computer Vision, Machine Learning and Sometimes Android**
 
 - 📫 Reach me:  **jayant.meshram18@vit.edu**
 
