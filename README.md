@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jayantmeshram_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/twitter.svg" alt="jayantmeshram_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jayant-meshram-71aa161a6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="jayant-meshram-71aa161a6" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jayantmeshram/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" alt="jayant-meshram-71aa161a6" height="30" width="40" /></a>
 <a href="https://medium.com/@jayantmeshram12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" alt="@jayantmeshram12" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jayant1112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jayant1112" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jayant_meshram18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackerrank.svg" alt="jayant_meshram18" height="30" width="40" /></a>
